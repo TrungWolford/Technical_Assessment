@@ -1,0 +1,14 @@
+target/
+.git
+.gitignore
+.dockerignore
+.mvn
+mvnw
+mvnw.cmd
+README.md
+HELP.md
+openapi.yaml
+.DS_Store
+*.md
+.idea/
+*.iml
